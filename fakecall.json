@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "af417fdc1e2a06b1",
+            "max_int": "bca018f7e975f165",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Dila Kent",
+            "photo": "https://i.postimg.cc/7L1qKb6W/dila-kent3.jpg",
+            "voice": "https://ringy9.github.io/Dila-Kent/voice.mp4",
+            "video": "https://ringy9.github.io/Dila-Kent/dila2.mp4",
+            "stories": [
+               "https://i.postimg.cc/PJ5fphdF/3d959a29a3e43e5aa1ce67a238f97cb2.jpg",
+"https://i.postimg.cc/kXDX7n12/400e82a4d91f0bb75247022c51e63b36.jpg",
+"https://i.postimg.cc/SRP4nMTJ/52152faf051c8105e77af3aa85f9e174.jpg",
+"https://i.postimg.cc/G3Xm0BQ0/53fb54024cf4845d4a0dc6dff6f62b20.jpg",
+"https://i.postimg.cc/mkkRZwSv/6ac0b41ff372264b4b2a52482c78ce49.jpg",
+"https://i.postimg.cc/TwRfFG5Y/b2864419df673b3fc4a85556cb718687.jpg",
+"https://i.postimg.cc/Z5dbywhZ/ce1f776752522a62e9a589cb9ae9f794.jpg",
+"https://i.postimg.cc/zXMDB960/dila-4353.jpg",
+"https://i.postimg.cc/VLS13KvM/dila-kent-dila-kent-ailesi.png",
+"https://i.postimg.cc/442sLDfs/Dila-Kent-Gri-Kazak-Tayt.jpg",
+"https://i.postimg.cc/fbQw7Ywd/dila-kent2.jpg",
+"https://i.postimg.cc/7L1qKb6W/dila-kent3.jpg",
+"https://i.postimg.cc/SsDkp5cL/e454652157662ade6a2584ff4ba7e5d9.jpg"
+            ],
+            "wallpapers": [
+                "https://i.postimg.cc/PJ5fphdF/3d959a29a3e43e5aa1ce67a238f97cb2.jpg",
+"https://i.postimg.cc/kXDX7n12/400e82a4d91f0bb75247022c51e63b36.jpg",
+"https://i.postimg.cc/SRP4nMTJ/52152faf051c8105e77af3aa85f9e174.jpg",
+"https://i.postimg.cc/G3Xm0BQ0/53fb54024cf4845d4a0dc6dff6f62b20.jpg",
+"https://i.postimg.cc/mkkRZwSv/6ac0b41ff372264b4b2a52482c78ce49.jpg",
+"https://i.postimg.cc/TwRfFG5Y/b2864419df673b3fc4a85556cb718687.jpg",
+"https://i.postimg.cc/Z5dbywhZ/ce1f776752522a62e9a589cb9ae9f794.jpg",
+"https://i.postimg.cc/zXMDB960/dila-4353.jpg",
+"https://i.postimg.cc/VLS13KvM/dila-kent-dila-kent-ailesi.png",
+"https://i.postimg.cc/442sLDfs/Dila-Kent-Gri-Kazak-Tayt.jpg",
+"https://i.postimg.cc/fbQw7Ywd/dila-kent2.jpg",
+"https://i.postimg.cc/7L1qKb6W/dila-kent3.jpg",
+"https://i.postimg.cc/SsDkp5cL/e454652157662ade6a2584ff4ba7e5d9.jpg"
+            ]
+          
+        }
+    ]
+}
